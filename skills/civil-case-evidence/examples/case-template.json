@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "case_id": "",
+  "status": "provisional",
+  "jurisdiction": "",
+  "relevant_time": "",
+  "question": "",
+  "facts": [],
+  "sources": [],
+  "claims": [],
+  "issues": [],
+  "retrievals": [],
+  "review": {
+    "open_items": [
+      "填写实际案件与检索资料后再验证"
+    ]
+  }
+}
